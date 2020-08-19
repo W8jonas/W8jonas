@@ -3,13 +3,9 @@
 My name is Jonas Henrique, a Electrical engineer student at the Universidade Federal de Juiz de Fora - UFJF.
 A software developer Jr for web, mobile and embedded systems, trying to make world better.
 
-<br/>
-
 - 🚀💼I’m currently working on LearnI-app
 
 - 📚 I’m currently learning more about Python, JavaScript, Machine Learning, C++ and among others.
-
-<br/>
 
 **Languages and Tools:**
 
@@ -28,6 +24,9 @@ A software developer Jr for web, mobile and embedded systems, trying to make wor
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=W8jonas&show_icons=true)
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas&layout=compac -->
+
+## Language Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas)](https://github.com/W8jonas/github-readme-stats)
 
 <!--
 **W8jonas/W8jonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
