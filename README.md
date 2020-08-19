@@ -24,11 +24,13 @@ A software developer Jr for web, mobile and embedded systems, trying to make wor
 
 ## My Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=W8jonas&show_icons=true)
-<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas&layout=compac -->
+<a href="https://github.com/W8jonas/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=W8jonas&show_icons=true&theme=solarized-dark" />
+</a>
+<a href="https://github.com/W8jonas/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas&layout=compact&theme=solarized-dark" />
+</a>
 
-## Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas)](https://github.com/W8jonas/github-readme-stats)
 
 <!--
 **W8jonas/W8jonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
