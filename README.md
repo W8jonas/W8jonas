@@ -1,5 +1,7 @@
 ### :man_technologist: Hello World!! I'm Jonas (or W8 for intimates) 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-henrique-97ab68180/)](https://www.linkedin.com/in/jonas-henrique-97ab68180/)
+
 My name is Jonas Henrique, a Electrical engineer student at the Universidade Federal de Juiz de Fora - UFJF.
 A software developer Jr for web, mobile and embedded systems, trying to make world better.
 
