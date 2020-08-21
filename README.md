@@ -28,7 +28,7 @@ A software developer Jr for web, mobile and embedded systems, trying to make wor
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=W8jonas&show_icons=true&theme=solarized-dark" />
 </a>
 <a href="https://github.com/W8jonas/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas&layout=compact&theme=solarized-dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas&layout=compact&theme=solarized-dark" />
 </a>
 
 
