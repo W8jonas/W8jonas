@@ -25,10 +25,10 @@ A software developer Jr for web, mobile and embedded systems, trying to make wor
 ## My Stats
 
 <a href="https://github.com/W8jonas/github-readme-stats">
-  <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=W8jonas&layout=compact&show_icons=true&theme=solarized-dark" />
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=W8jonas&layout=compact&show_icons=true&theme=solarized-dark" />
 </a>
 <a href="https://github.com/W8jonas/convoychat">
-  <img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas&layout=compact&theme=solarized-dark" />
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas&layout=compact&theme=solarized-dark" />
 </a>
 
 
