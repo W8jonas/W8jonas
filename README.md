@@ -5,7 +5,7 @@
 My name is Jonas Henrique, a Electrical engineer student at the Universidade Federal de Juiz de Fora - UFJF.
 A software developer Jr for web, mobile and embedded systems, trying to make world better.
 
-- 🚀💼I’m currently working on LearnI-app
+- 🚀💼I’m currently working on LearnI-app and Volt - Soluções para crises epilépticas.
 
 - 📚 I’m currently learning more about Python, JavaScript, Machine Learning, C++ and among others.
 
