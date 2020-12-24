@@ -26,24 +26,25 @@ A software developer Jr for web, mobile and embedded systems, trying to make wor
 
 ## My Stats
 
-<a href="https://github.com/W8jonas/github-readme-stats">
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=W8jonas&layout=compact&show_icons=true&theme=solarized-dark" />
-</a>
-<a href="https://github.com/W8jonas/convoychat">
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas&layout=compact&theme=solarized-dark&hide=HTML,Jupyter Notebook" />
-</a>
+<p align="left">
+  <a href="https://github.com/W8jonas/github-readme-stats">
+    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=W8jonas&layout=compact&show_icons=true&theme=solarized-dark" />
+  </a>
+</p>
+<p align="right">
+  <a href="https://github.com/W8jonas/convoychat">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas&layout=compact&theme=solarized-dark&hide=HTML,Jupyter Notebook" />
+  </a>
+</p>
 
 
-<!--
-**W8jonas/W8jonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+<br/>
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/W8jonas/W8jonas" alt="Visitors badge" />
+   </a>
+</p>
