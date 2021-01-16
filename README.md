@@ -1,6 +1,16 @@
 ### :man_technologist: Hello World!! I'm Jonas (or W8 for intimates) 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-henrique-97ab68180/)](https://www.linkedin.com/in/jonas-henrique-97ab68180/)
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jonas-henrique-97ab68180/">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-henrique-97ab68180/" alt="Linkedin" />
+  </a>
+
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/W8jonas/W8jonas" alt="Visitors badge" />
+  </a>
+</div>
+
 
 My name is Jonas Henrique, a Electrical engineer student at the Universidade Federal de Juiz de Fora - UFJF.
 A software developer Jr for web, mobile and embedded systems, trying to make world better.
@@ -35,16 +45,4 @@ A software developer Jr for web, mobile and embedded systems, trying to make wor
   <a href="https://github.com/W8jonas/convoychat">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas&layout=compact&theme=solarized-dark&hide=HTML,Jupyter Notebook" />
   </a>
-</p>
-
-
-<br/>
-<br/>
-<br/>
-
-
-<p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/W8jonas/W8jonas" alt="Visitors badge" />
-   </a>
 </p>
