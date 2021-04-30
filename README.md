@@ -43,6 +43,6 @@ A software developer Jr for web, mobile and embedded systems, trying to make wor
 </p>
 <p align="right">
   <a href="https://github.com/W8jonas/convoychat">
-    <img align="right" height="180px" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas&layout=compact&theme=solarized-dark&hide=HTML,Jupyter Notebook" />
+    <img align="right" height="180px" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas&layout=compact&theme=solarized-dark&hide=HTML,Jupyter Notebook, Tex" />
   </a>
 </p>
