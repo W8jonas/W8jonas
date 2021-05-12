@@ -11,19 +11,27 @@
   </a>
 </div>
 
-PT-BR
-Meu nome é Jonas Henrique, atualmente estudante de engenharia elétrica pela Universidade Federal de Juiz de Fora - UFJF.
-Sou desenvolvedor de softwares web, mobile, backend, sistemas embarcados, tentando, a partir deles, deixar o mundo melhor.
-Tendo como foco o desenvolvimento de aplicativos para celular utilizando React-Native.
+</br>
 
-EN-US
-My name is Jonas Henrique, a Electrical engineer student at the Universidade Federal de Juiz de Fora - UFJF.
-A software developer Jr for web, mobile and embedded systems, trying to make world better.
-Focusing on the development of mobile applications using React-Native.
+<img height=15 alt="Bandeira do Brasil" src="https://user-images.githubusercontent.com/39463872/117911655-8b8c0980-b2b4-11eb-9291-403c6f7f8a4d.png" /> PT-BR </br>
+Meu nome é Jonas Henrique, atualmente estudante de engenharia elétrica pela Universidade Federal de Juiz de Fora - UFJF. </br>
+Sou desenvolvedor de softwares web, mobile, backend, sistemas embarcados, tentando, a partir deles, deixar o mundo melhor. </br>
+Tendo como foco o desenvolvimento de aplicativos para celular utilizando React-Native. </br>
 
-- 🚀💼I’m currently working on LearnI-app and Volt - Soluções para crises epilépticas.
+</br>
+
+<img height=15 alt="Bandeira dos EUA" src="https://image.freepik.com/vetores-gratis/ilustracao-de-bandeira-eua_53876-18165.jpg" /> EN-US </br>
+My name is Jonas Henrique, a Electrical engineer student at the Universidade Federal de Juiz de Fora - UFJF. </br>
+A software developer Jr for web, mobile and embedded systems, trying to make world better. </br>
+Focusing on the development of mobile applications using React-Native. </br>
+
+</br>
+
+- 🚀💼 I’m currently working on LearnI-app and Volt - Soluções para crises epilépticas.
 
 - 📚 I’m currently learning more about React-Native, JavaScript, Python, some of Machine Learning, C++ and some others for hobbie.
+
+</br>
 
 **Languages and Tools:**
 
