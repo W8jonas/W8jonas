@@ -1,4 +1,4 @@
-### :man_technologist: Hello World!! I'm Jonas (or W8 for intimates) 👋
+### :man_technologist: Hello World!! I'm Jonas (or W8 for friends) 👋
 
 
 <div align="left">
