@@ -11,13 +11,19 @@
   </a>
 </div>
 
+PT-BR
+Meu nome é Jonas Henrique, atualmente estudante de engenharia elétrica pela Universidade Federal de Juiz de Fora - UFJF.
+Sou desenvolvedor de softwares web, mobile, backend, sistemas embarcados, tentando, a partir deles, deixar o mundo melhor.
+Tendo como foco o desenvolvimento de aplicativos para celular utilizando React-Native.
 
+EN-US
 My name is Jonas Henrique, a Electrical engineer student at the Universidade Federal de Juiz de Fora - UFJF.
 A software developer Jr for web, mobile and embedded systems, trying to make world better.
+Focusing on the development of mobile applications using React-Native.
 
 - 🚀💼I’m currently working on LearnI-app and Volt - Soluções para crises epilépticas.
 
-- 📚 I’m currently learning more about Python, JavaScript, Machine Learning, C++ and among others.
+- 📚 I’m currently learning more about React-Native, JavaScript, Python, some of Machine Learning, C++ and some others for hobbie.
 
 **Languages and Tools:**
 
@@ -46,3 +52,4 @@ A software developer Jr for web, mobile and embedded systems, trying to make wor
     <img align="right" height="180px" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas&layout=compact&theme=solarized-dark&hide=HTML,Jupyter Notebook, Tex" />
   </a>
 </p>
+ 
