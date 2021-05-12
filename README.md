@@ -27,7 +27,7 @@ Focusing on the development of mobile applications using React-Native. </br>
 
 </br>
 
-- 🚀💼 I’m currently working on LearnI-app and Volt - Soluções para crises epilépticas.
+- 🚀 I’m currently working on LearnI-app and Volt - Soluções para crises epilépticas.
 
 - 📚 I’m currently learning more about React-Native, JavaScript, Python, some of Machine Learning, C++ and some others for hobbie.
 
