@@ -27,9 +27,9 @@ Focusing on the development of mobile applications using React-Native. </br>
 
 </br>
 
-- 🚀 I’m currently working on LearnI-app and Volt - Soluções para crises epilépticas.
+- 🚀 I’m currently working on MTools, GetLab and Volt - Soluções para crises epilépticas.
 
-- 📚 I’m currently learning more about React-Native, JavaScript, Python, some of Machine Learning, C++ and some others for hobbie.
+- 📚 I’m currently learning more about React-Native, JavaScript, Python, some of Machine Learning Concepts, C++ and some others for hobbie.
 
 </br>
 
@@ -52,15 +52,18 @@ Focusing on the development of mobile applications using React-Native. </br>
 
 <p align="left">
   <a href="https://github.com/W8jonas/github-readme-stats">
-    <img align="left" height="180px" width="47%" src="https://github-readme-stats.vercel.app/api?username=W8jonas&layout=compact&show_icons=true&theme=solarized-dark" />
+    <img align="left" height="200px" width="49%" src="https://github-readme-stats.vercel.app/api?username=W8jonas&layout=compact&show_icons=true&theme=solarized-dark" />
   </a>
 </p>
 <p align="right">
   <a href="https://github.com/W8jonas/convoychat">
-    <img align="right" height="180px" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas&layout=compact&theme=solarized-dark&hide=HTML,Jupyter Notebook, Tex" />
+    <img align="right" height="200px" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas&layout=compact&theme=solarized-dark&hide=HTML,Jupyter Notebook, Tex" />
   </a>
 </p>
 
-[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W8jonas&theme=solarized_dark)](#)
 
- 
+<p> </br> </br> </br> </br> </br> </br> </br> </br> </br> </p>
+
+<img align="left" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W8jonas&theme=solarized_dark" />
+
+</br>
