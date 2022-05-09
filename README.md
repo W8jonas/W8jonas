@@ -60,4 +60,7 @@ Focusing on the development of mobile applications using React-Native. </br>
     <img align="right" height="180px" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas&layout=compact&theme=solarized-dark&hide=HTML,Jupyter Notebook, Tex" />
   </a>
 </p>
+
+[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W8jonas&theme=solarized_dark)](#)
+
  
