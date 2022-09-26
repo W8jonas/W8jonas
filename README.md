@@ -6,9 +6,9 @@
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-henrique-97ab68180/" alt="Linkedin" />
   </a>
 
-  <a href="https://badges.pufler.dev">
+  <!-- <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/W8jonas/W8jonas" alt="Visitors badge" />
-  </a>
+  </a> -->
 </div>
 
 </br>
@@ -56,9 +56,10 @@ Focusing on the development of mobile applications using React-Native. </br>
   </a>
 </p>
 <p align="right">
-  <a href="https://github.com/W8jonas/convoychat">
-    <img align="right" height="200px" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas&layout=compact&theme=solarized-dark&hide=HTML,Jupyter Notebook, Tex" />
-  </a>
+    <a href="https://github.com/W8jonas/convoychat">
+     <img align="right" height="200px" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas&layout=compact&theme=solarized-dark&hide=HTML,jupyter%20notebook,Tex" />  
+  </a> 
+  
 </p>
 
 
