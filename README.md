@@ -15,15 +15,16 @@
 
 <img height=15 alt="Bandeira do Brasil" src="https://user-images.githubusercontent.com/39463872/117911655-8b8c0980-b2b4-11eb-9291-403c6f7f8a4d.png" /> PT-BR </br>
 Meu nome é Jonas Henrique, atualmente estudante de engenharia elétrica pela Universidade Federal de Juiz de Fora - UFJF. </br>
-Sou desenvolvedor de softwares web, mobile, backend, sistemas embarcados, tentando, a partir deles, deixar o mundo melhor. </br>
-Tendo como foco o desenvolvimento de aplicativos para celular utilizando React-Native. </br>
+Sou desenvolvedor de softwares Fullstack, especialista em Frontend. Mas, além disso, curto bastante sistemas embarcados e ML.</br>
+Tenho foco o desenvolvimento de aplicativos para celular utilizando React-Native.</br>
 
 </br>
 
 <img height=15 alt="Bandeira dos EUA" src="https://image.freepik.com/vetores-gratis/ilustracao-de-bandeira-eua_53876-18165.jpg" /> EN-US </br>
-My name is Jonas Henrique, a Electrical engineer student at the Universidade Federal de Juiz de Fora - UFJF. </br>
-A software developer Jr for web, mobile and embedded systems, trying to make world better. </br>
-Focusing on the development of mobile applications using React-Native. </br>
+My name is Jonas Henrique, and I'm currently an Electrical Engineering student at the Federal University of Juiz de Fora (UFJF).</br>
+I'm a Fullstack software developer with a specialization in Frontend. Besides that, I'm also really into embedded systems and machine learning.</br>
+My main focus is on developing mobile applications using React Native.</br>
+
 
 </br>
 
